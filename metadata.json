@@ -1,0 +1,6 @@
+{
+  "name": "EVIDLINK - Criminal Network Analysis & Investigative Intelligence",
+  "description": "AI-Powered Criminal Network Analysis & Investigative Intelligence System for connecting fragmented evidence, discovering hidden relationships, and prioritizing explainable investigative leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
